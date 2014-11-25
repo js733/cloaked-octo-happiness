@@ -1,0 +1,13 @@
+------------------------ primeiros passos ------------------------
+
+[linux/janelas]
+
+1. abra o terminal/cmd e navegue até esta pasta contendo "exemplo.jpg" , "leiame.txt" e "downloadLegendasTV.java ;
+2. compile usando javac downloadLegendasTV.java ;
+3. execute usando java downloadLegendasTV ;
+
+------------------------ durante a execução ------------------------
+
+4. use os dados de hora, minuto, dia, mes e ano providos na página da legenda desejada.
+
+------------------------ thats all, folks ------------------------
